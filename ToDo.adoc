@@ -1,0 +1,89 @@
+= Test Driven Development
+
+[abstract]
+* Prabhu Sunderaraman
+* Blog: http://healthycoder.in
+* Books: Spring 3.0 Black Book, Practical Ext JS4
+* prabhu@durasoftindia.com
+
+== Agile Development Process
+
+* Software development risks
+* Types of developmental approach
+* Agile Manifesto
+* Agile Principles
+* Agile Modeling
+* Practices of an agile developer
+
+== Test Driven Development
+
+* What is Test Driven Development?
+* Benefits
+* Programming by Intention
+* Simple code that works
+* Kinds of Tests
+* System functionality and relation to TDD
+* Stages in TDD
+
+== Tools for TDD
+
+* Tools for TDD
+* Class hierarchy
+* Developing test cases
+* Running test cases
+* Assertions, setUp and teardown
+* Test Suites
+* How to organize your test cases, where do they go?
+* How to stay one step from the Green bar
+* How to accommodate functional changes?
+* How to accommodate design changes?
+* Extensions and related tools
+* TDD activity
+
+== Mock Objects
+
+* What are Mock Objects?
+* Why do we need those?
+* Mock objects as an aid to TDD
+* When to create Mock Objects?
+* How to create Mock Objects?
+* Mock object framework
+* Interfaced based programming and Mock Objects
+
+== Refactoring your code
+
+* Extensibility of a system
+* Problem with over abstraction and heavy modeling
+* What is refactoring?
+* When should refactoring happen?
+* What is refactoring?
+* Signs that a code needs refactoring
+* Specific Refactoring recommendations in Method level, class level,data layer,
+abstraction
+* Tools that help with refactoring
+
+== Continuous Integration and TDD
+
+* What to write Test for?
+* Things that are easier to test
+* Things that are hard to test – limitations
+* Tools to facilitate testing different part of a system
+* Tools to test GUI
+* Quality of Test cases
+* How often should test be run? Every day, each hour?
+* How about when code is checked in?
+* Tools for continuous integration
+
+== Pair Programming
+
+* Need for Pairing
+* Increase/Decrease in time
+* Everyone pairing
+* Rotation
+* Collective Ownership
+* Short term goals
+* Distributing forces
+* Pair programming strategies
+* Distributed environment
+* Using TDD with Pairing
+* Pair Programming Activity
