@@ -1,0 +1,7 @@
+Problem Statement
+
+You will implement a guessing game console application.
+The application generates a random number between 1 and 100. User starts playing the game till he guesses the number correct. 
+If the number entered is greater than the generated random Number display a message "Aim Lower" else display "Aim Higher". If the user guesses the number correct display "You have got it". The application also prints the number of attempts taken by the user.
+
+
